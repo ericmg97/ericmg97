@@ -1,6 +1,6 @@
 # Hi there 👋🏻✨
 
-Hello! I'm Eric Martín García, an IT professional based in Madrid, Spain 🇪🇸. I have over 3 years of experience in developing web and batch solutions for clients, with a passion for software development and a strong background in data structures, algorithms, database theory, applied mathematics, and image processing.
+I'm Eric, an IT professional based in Madrid, Spain 🇪🇸. I have over 3 years of experience in developing web and batch solutions for clients, with a passion for software development and a strong background in data structures, algorithms, database theory, applied mathematics, and image processing.
 
 ## Professional Experience 💼
 ### Freelance Software Programmer, Havana, CU (January 2018 - Present)
