@@ -89,8 +89,6 @@ I'm Eric, a computer scientist specialized in data science and machine learning 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmg97&layout=compact&theme=dark)](https://github.com/ericmg97)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericmg97&" alt="ericmg97" /></p>
-
 ## Let's Connect! 🤝
 
 Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ericmg97) or [Email](mailto:ermargar97@gmail.com). Open to collaboration and new opportunities! 📩
