@@ -55,12 +55,31 @@ I'm Eric, a computer scientist specialized in data science and machine learning 
 ## Certifications 📜
 
 - Preparing for AWS Machine Learning Specialty Certificate (Expected: Nov. 2023) 🚀
+- 
+## Languages and Libraries
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+## Tools and Services
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="apache-spark" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
 
 ## GitHub Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmg97&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmg97&layout=compact&theme=dark)](https://github.com/ericmg97)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericmg97&" alt="ericmg97" /></p>
 
 ## Let's Connect! 🤝
 
