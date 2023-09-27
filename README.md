@@ -11,7 +11,7 @@ I'm Eric, a computer scientist specialized in data science and machine learning 
 - 5+ years of experience in software development and data science 📊
 - Proficient in Python, Scikit-Learn, Tensorflow, and Keras 🐍
 - AWS Cloud expert (Amazon SageMaker, Lambda, S3) ☁️
-- Data analysis and visualization with Matplotlib, Seaborn, and Power BI 📈
+- Data analysis and visualization with Pandas, Matplotlib, Seaborn, Plotly and Power BI 📈
 - Skilled in software development (Python, Django, C#) 🌐
 
 ## Education 📚
