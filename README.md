@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333)](https://github.com/ericmg97)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:ermargar97@gmail.com)
 
-I'm Eric, a computer scientist specialized in data science and machine learning specialized on AWS. 🚀
+I'm Eric, a computer scientist specialized in data science and machine learning, expert on AWS. 🚀
 
 ## About Me 📌
 
