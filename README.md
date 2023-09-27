@@ -67,7 +67,7 @@ I'm Eric, a computer scientist specialized in data science and machine learning 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="120" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain-wordmark.svg" alt="Power BI" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/> </a>
 </p>
 
 
