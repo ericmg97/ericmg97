@@ -1,33 +1,67 @@
 # Hi there 👋🏻✨
 
-I'm Eric, an IT professional based in Madrid, Spain 🇪🇸. I have over 3 years of experience in developing web and batch solutions for clients, with a passion for software development and a strong background in data structures, algorithms, database theory, applied mathematics, and image processing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ericmg97)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333)](https://github.com/ericmg97)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:ermargar97@gmail.com)
 
-## Professional Experience 💼
-### Freelance Software Programmer, Havana, CU (January 2018 - Present)
-💻 Developed console app with Python to sort files and extract metadata in Windows OS.
+Hi, I'm Eric Martín García, a computer scientist specialized in data science and machine learning specialized on AWS. 🚀
 
-🔍 Created Amazon web scraper using Python, Requests, and bs4 for predictive pricing.
+## About Me 📌
 
-📊 Analyzed FIFA 20 player data with R, utilizing regression, dimension reduction, and ANOVA techniques.
+- 5+ years of experience in software development and data science 📊
+- Proficient in Python, Scikit-Learn, Tensorflow, and Keras 🐍
+- AWS Cloud expert (Amazon SageMaker, Lambda, S3) ☁️
+- Data analysis and visualization with Matplotlib, Seaborn, and Power BI 📈
+- Skilled in software development (Python, Django, C#) 🌐
 
-🖼️ Built image manipulation software with Python, Django, Pillow, Matplotlib, and NumPy.
+## Education 📚
 
-### Software Programmer, Viajes Cubanacán, Havana, CU (January 2022 - August 2022)
-💡 Developed and optimized software, designed databases using ASP .NET Core, Entity Framework, and MS SQL.
+- **Master in Data Science**
+  - Immune Technology Institute, Madrid, Spain 🇪🇸
+  - Jan. 2023 - Jan. 2024 (Expected)
 
-🌐 Created user interfaces with JS/jQuery, HTML, and CSS.
+- **Bachelor of Computer Science**
+  - University of Havana, Havana, Cuba 🇨🇺
+  - Sept. 2016 - Dec. 2021
 
-📈 Extracted business data and generated reports.
+## Work Experience 🏢
 
-🔧 Maintained database objects for efficient data access.
+### Data Scientist at Online Tours, Madrid, ES 🇪🇸
 
-### Investigator and Developer, University of Havana, Havana, CU (December 2020 - November 2021)
-🔬 Optimized pattern recognition of one-dimensional signals and images using wavelet functions and machine learning.
+- Aug. 2022 - Present
+> "Turning data into travel experiences" ✈️
 
-⚙️ Developed software with Pyqt for experimentation and graphical analysis of wavelets.
+### Researcher and Developer at University of Havana, Havana, CU 🇨🇺
 
-## Contact Information 📞
-- Location: Madrid, Spain 📍
-- Email: ermargar97@gmail.com ✉️
+- Jan. 2021 - Present
+> "Exploring the frontiers of pattern recognition" 🧩
 
-Feel free to reach out to me for any inquiries or collaboration opportunities! Let's create something amazing together! 🚀
+### Data Scientist at Viajes Cubanacan, Havana, CU 🇨🇺
+
+- Oct. 2021 - Aug. 2022
+> "Optimizing travel experiences through data" 🌟
+
+## Publications 📖
+
+1. **Wavelet Functions for Pattern Recognition**
+   - *Revista Cubana de Física*
+   - 📝 Under Review
+   - 🧩 Developed wavelet functions for optimized pattern recognition in one-dimensional signals.
+
+2. **Wavelet Generator 1.0: Construction of Tailored Wavelets**
+   - 📜 Patent: 0241-02-2023
+   - 🚀 Developed patented software for creating custom wavelets, enhancing time-frequency accuracy for pattern analysis.
+
+## Certifications 📜
+
+- Preparing for AWS Machine Learning Specialty Certificate (Expected: Nov. 2023) 🚀
+
+## GitHub Stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmg97&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmg97&layout=compact&theme=dark)](https://github.com/ericmg97)
+
+## Let's Connect! 🤝
+
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ericmg97) or [Email](mailto:ermargar97@gmail.com). Open to collaboration and new opportunities! 📩
