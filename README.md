@@ -1,6 +1,7 @@
 # Hi there 👋🏻✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ericmg97)
+[![Medium](https://img.shields.io/badge/Medium-Follow-brightgreen)](https://ericmg97.medium.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333)](https://github.com/ericmg97)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:ermargar97@gmail.com)
 
